@@ -63,9 +63,6 @@
 				</content>
 			</IconTabBar>
 		</semantic:headerContent>
-		<semantic:sendEmailAction>
-			<semantic:SendEmailAction id="shareEmail" press=".onShareEmailPress"/>
-		</semantic:sendEmailAction>
 		<semantic:positiveAction>
 			<semantic:PositiveAction text="{i18n>TableProductsReorder}" press=".onUpdateStockObjects"/>
 		</semantic:positiveAction>
